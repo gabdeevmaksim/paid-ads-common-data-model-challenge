@@ -61,7 +61,7 @@ You might also need to calculate specific metrics:
 
 * Facebook's `engagement` metric requires combining `clicks` and `views`.
 
-If you don not have a suitable value to fill the column use `''` for string and `0` for numerical columns.
+If you don not have a suitable value to fill the column use `''` for string and `0` for numerical columns:
 
 *  '' as placement_id,
 *  0 as post_view_conversions,
